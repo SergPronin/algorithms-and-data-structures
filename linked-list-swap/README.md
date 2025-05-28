@@ -1,6 +1,6 @@
 # Linked List Swap
 
-This project implements a doubly linked list with a pair-swapping feature, presented through a JavaFX GUI. The application allows users to add, remove, and swap pairs of elements in the list interactively. Created as of 12:05 AM +04, May 29, 2025.
+This project implements a doubly linked list with a pair-swapping feature, presented through a JavaFX GUI. The application allows users to add, remove, and swap pairs of elements in the list interactively.
 
 ## Features
 - **Doubly Linked List**: Custom implementation of a doubly linked list with methods for adding and removing elements at both ends.
@@ -76,7 +76,7 @@ MIT License (see [LICENSE](LICENSE))
 
 ## Русский
 
-Этот проект реализует двусвязный список с функцией обмена парного расположения элементов и графическим интерфейсом на JavaFX. Приложение позволяет добавлять, удалять и обменивать пары элементов в списке интерактивно. Создан по состоянию на 12:05 AM +04, 29 мая 2025 года.
+Этот проект реализует двусвязный список с функцией обмена парного расположения элементов и графическим интерфейсом на JavaFX. Приложение позволяет добавлять, удалять и обменивать пары элементов в списке интерактивно.
 
 ### Возможности
 - **Двусвязный список**: Собственная реализация с методами добавления и удаления элементов с обоих концов.
