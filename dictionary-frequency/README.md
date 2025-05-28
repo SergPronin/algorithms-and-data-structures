@@ -1,7 +1,6 @@
 # Dictionary Frequency Analysis
 
-This project implements a letter pair frequency analyzer using various `Map` implementations (`HashMap`, `TreeMap`, `LinkedHashMap`, and a custom `CustomHashMap`). It includes a JavaFX GUI for selecting a text file, choosing a `Map` type, and displaying the frequency of letter pairs in a table. Created as of 11:50 PM +04, May 28, 2025.
-
+This project implements a letter pair frequency analyzer using various `Map` implementations (`HashMap`, `TreeMap`, `LinkedHashMap`, and a custom `CustomHashMap`). It includes a JavaFX GUI for selecting a text file, choosing a `Map` type, and displaying the frequency of letter pairs in a table.
 ## Features
 - **Custom HashMap**: A custom implementation of the `Map` interface with chaining for collision resolution.
 - **Standard Map Implementations**: Uses `HashMap`, `TreeMap`, and `LinkedHashMap` for comparison.
@@ -71,7 +70,7 @@ MIT License (see [LICENSE](LICENSE))
 
 ## Русский
 
-Этот проект реализует анализ частоты пар букв с использованием различных реализаций `Map` (`HashMap`, `TreeMap`, `LinkedHashMap` и кастомный `CustomHashMap`). Включает графический интерфейс на JavaFX для выбора текстового файла, выбора типа `Map` и отображения результатов в таблице. Создан по состоянию на 11:50 PM +04, 28 мая 2025 года.
+Этот проект реализует анализ частоты пар букв с использованием различных реализаций `Map` (`HashMap`, `TreeMap`, `LinkedHashMap` и кастомный `CustomHashMap`). Включает графический интерфейс на JavaFX для выбора текстового файла, выбора типа `Map` и отображения результатов в таблице.
 
 ### Возможности
 - **Кастомный HashMap**: Собственная реализация интерфейса `Map` с цепочками для разрешения коллизий.

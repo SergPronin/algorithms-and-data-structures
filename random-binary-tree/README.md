@@ -1,6 +1,6 @@
 # Random Binary Tree Generator
 
-This project implements a random binary tree generator with visualization using JavaFX. It allows generating trees with custom parameters and visualizing them either with fixed settings or through an interactive GUI. Created as of 07:28 PM +04, May 28, 2025.
+This project implements a random binary tree generator with visualization using JavaFX. It allows generating trees with custom parameters and visualizing them either with fixed settings or through an interactive GUI.
 
 ## Features
 - Generate random binary trees with:
@@ -66,7 +66,7 @@ MIT License (see [LICENSE](LICENSE))
 
 ## Русский
 
-Этот проект реализует генератор случайного бинарного дерева с визуализацией с помощью JavaFX. Позволяет создавать деревья с настраиваемыми параметрами и визуализировать их через фиксированные настройки или интерактивный интерфейс. Создан по состоянию на 07:28 PM +04, 28 мая 2025 года.
+Этот проект реализует генератор случайного бинарного дерева с визуализацией с помощью JavaFX. Позволяет создавать деревья с настраиваемыми параметрами и визуализировать их через фиксированные настройки или интерактивный интерфейс.
 
 ### Возможности
 - Генерация случайных бинарных деревьев с:

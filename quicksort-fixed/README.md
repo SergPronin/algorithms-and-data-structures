@@ -1,6 +1,6 @@
 # QuickSort with Fixed Elements
 
-This project implements a modified QuickSort algorithm that sorts an array while preserving the positions of fixed elements. It includes a JavaFX GUI for interactive sorting and visualization, unit tests, and a reliable sorting algorithm. Created as of 09:43 PM +04, May 28, 2025.
+This project implements a modified QuickSort algorithm that sorts an array while preserving the positions of fixed elements. It includes a JavaFX GUI for interactive sorting and visualization, unit tests, and a reliable sorting algorithm.
 
 ## Features
 - Standard QuickSort implementation.
@@ -82,7 +82,7 @@ MIT License (see [LICENSE](LICENSE))
 
 ## Русский
 
-Этот проект реализует модифицированный алгоритм быстрой сортировки, который сортирует массив, сохраняя позиции фиксированных элементов. Включает графический интерфейс на JavaFX, юнит-тесты и надёжный алгоритм сортировки. Создан по состоянию на 09:43 PM +04, 28 мая 2025 года.
+Этот проект реализует модифицированный алгоритм быстрой сортировки, который сортирует массив, сохраняя позиции фиксированных элементов. Включает графический интерфейс на JavaFX, юнит-тесты и надёжный алгоритм сортировки.
 
 ### Возможности
 - Стандартная реализация QuickSort.
