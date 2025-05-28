@@ -1,0 +1,32 @@
+.main-pane {
+    -fx-background-color: #f0f4f8;
+}
+
+.input-field {
+    -fx-font-size: 14px;
+    -fx-border-color: #d3d3d3;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+}
+
+.custom-button {
+    -fx-font-size: 14px;
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px 10px;
+    -fx-cursor: hand;
+}
+
+.custom-button:hover {
+    -fx-background-color: #45a049;
+}
+
+.list-view {
+    -fx-font-size: 14px;
+    -fx-border-color: #d3d3d3;
+    -fx-background-color: #ffffff;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}

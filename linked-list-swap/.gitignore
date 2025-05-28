@@ -1,0 +1,19 @@
+# Maven build artifacts
+target/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# macOS files
+.DS_Store
+
+# Project-specific files
+img.png
+task2.txt
