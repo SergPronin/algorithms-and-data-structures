@@ -1,6 +1,6 @@
 # Algorithms and Data Structures (University Java Projects)
 
-This repository is a curated collection of Java projects developed by **Sergey Pronin**, a first-year student at Voronezh State University (VSU), Faculty of Computer Science, group 7.1, majoring in Software Engineering. These projects, created as part of university coursework, focus on implementing algorithms, data structures, and graphical user interface (GUI) applications using JavaFX. The repository showcases practical programming skills, problem-solving abilities, and software design principles. Last updated: 10:11 PM +04, May 28, 2025.
+This repository is a curated collection of Java projects developed by **Sergey Pronin**, a first-year student at Voronezh State University (VSU), Faculty of Computer Science, group 7.1, majoring in Software Engineering. These projects, created as part of university coursework, focus on implementing algorithms, data structures, and graphical user interface (GUI) applications using JavaFX. The repository showcases practical programming skills, problem-solving abilities, and software design principles.
 
 ## Projects
 The repository will progressively include the following projects, each with a graphical user interface:
@@ -32,7 +32,7 @@ This repository is licensed under the [MIT License](LICENSE), allowing free use,
 
 ## Алгоритмы и структуры данных (Университетские проекты на Java)
 
-Этот репозиторий представляет собой тщательно подобранную коллекцию проектов на Java, разработанных **Сергеем Прониным**, студентом 1-го курса Воронежского государственного университета (ВГУ), Факультета компьютерных наук, группа 7.1, направление "Программная инженерия". Проекты созданы в рамках университетского курса и посвящены реализации алгоритмов, структур данных и приложений с графическим интерфейсом (GUI) с использованием JavaFX. Репозиторий демонстрирует практические навыки программирования, способности к решению задач и принципы проектирования программного обеспечения. Последнее обновление: 10:11 PM +04, 28 мая 2025 года.
+Этот репозиторий представляет собой тщательно подобранную коллекцию проектов на Java, разработанных **Сергеем Прониным**, студентом 1-го курса Воронежского государственного университета (ВГУ), Факультета компьютерных наук, группа 7.1, направление "Программная инженерия". Проекты созданы в рамках университетского курса и посвящены реализации алгоритмов, структур данных и приложений с графическим интерфейсом (GUI) с использованием JavaFX. Репозиторий демонстрирует практические навыки программирования, способности к решению задач и принципы проектирования программного обеспечения.
 
 ## Проекты
 Репозиторий будет постепенно пополняться следующими проектами, каждый из которых включает графический интерфейс:
