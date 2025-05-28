@@ -66,7 +66,7 @@ img.png                           # Screenshot of the GUI
 ```
 
 ## Screenshots
-![Bracket Checker GUI](img.png)
+![Bracket Checker GUI](img1.png)
 
 ## License
 MIT License (see [LICENSE](LICENSE))
