@@ -1,0 +1,27 @@
+.root {
+    -fx-font-family: "Arial";
+    -fx-font-size: 14px;
+}
+
+.label {
+    -fx-text-fill: #333333;
+}
+
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.button:hover {
+    -fx-background-color: #45a049;
+}
+
+.text-field, .choice-box {
+    -fx-pref-width: 150px;
+}
+
+.text-area {
+    -fx-pref-height: 100px;
+    -fx-font-family: "Courier New";
+}
