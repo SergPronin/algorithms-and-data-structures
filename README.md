@@ -115,7 +115,7 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 ---
 
 ### 📬 Contact
-For questions or feedback, please contact [sergejpronin@example.com](mailto:sergejpronin@example.com).
+For questions or feedback, please contact [sergeypronin.dev@gmail.com](mailto:sergejpronin@example.com).
 
 ---
 
@@ -233,4 +233,4 @@ algorithms-and-data-structures/
 ---
 
 ### 📬 Контакты
-По вопросам и обратной связи пишите на [sergejpronin@example.com](mailto:sergejpronin@example.com).
+По вопросам и обратной связи пишите на [sergeypronin.dev@gmail.com](mailto:sergejpronin@example.com).
