@@ -76,7 +76,7 @@ public class GameGraph {
             Probabilities p1 = calculateProbabilities(b1, player == Board.Cell.X ? Board.Cell.O : Board.Cell.X);
             Probabilities p2 = calculateProbabilities(b2, player == Board.Cell.X ? Board.Cell.O : Board.Cell.X);
             double score1 = p1.xWins + p1.oWins + p1.draws;
-            double score2 = p2.xWins + p2.oWins + p2.draws; 
+            double score2 = p2.xWins + p2.oWins + p2.draws;
             return Double.compare(score2, score1); // Сортировка по убыванию
         });
         List<Board> filteredMoves = sortedMoves.size() > maxChildrenPerLevel ? sortedMoves.subList(0, maxChildrenPerLevel) : sortedMoves;
